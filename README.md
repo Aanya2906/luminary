@@ -49,7 +49,7 @@ Luminary/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/luminary.git
+git clone https://github.com/Ananya2906/luminary.git
 ```
 
 2. Open the project folder
