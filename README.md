@@ -37,7 +37,6 @@ It blends visual aesthetics, soundscapes, and productivity tools to help you foc
 
 ```
 Luminary/
-│
 ├── index.html
 ├── css/
 ├── js/
